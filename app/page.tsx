@@ -101,8 +101,8 @@ export default function Home() {
                   </p>
                 </div>
               </div>
-              <div className="flex items-center gap-3">
-                <p className="rounded-full border border-[#c48a2c]/45 px-4 py-2 text-xs font-bold uppercase tracking-[0.2em] text-[#8e2f38]">
+              <div className="flex flex-wrap items-center justify-center gap-2 sm:gap-3">
+                <p className="max-w-full rounded-full border border-[#c48a2c]/45 px-3 py-2 text-center text-xs font-bold uppercase tracking-[0.12em] text-[#8e2f38] sm:px-4 sm:tracking-[0.2em]">
                   സ്നേഹപൂർവ്വം ക്ഷണിക്കുന്നു
                 </p>
                 <div
